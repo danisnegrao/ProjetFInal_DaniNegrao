@@ -2,6 +2,7 @@
 
 
 # 🌷<span style="color:pink">**TEMA:** **Saúde Sexual Feminina: Comportamento, Satisfação e Desafios**</span>💜
+## 🌷<span style="color:pink">**Por Dani Negrão**</span>💜
 
 
 ## 🌷<span style="color:purple">**Base de dados: saude_sexual_feminina**</span> 💜
@@ -74,8 +75,9 @@
 </span>
 
 <p align="center">
-<img src= "https://static.vecteezy.com/ti/vetor-gratis/p1/660585-grupo-mulheres-dancando-personagem-de-avatar-gratis-vetor.jpg" width="50%" height="30%"/>
+  <img src="Imagens_Tableau/mulheres.jpg" alt="Descrição da Imagem">
 </p>
+
 
 ## 🌷 Autora 💜
 
